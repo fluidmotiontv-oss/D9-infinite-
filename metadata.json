@@ -1,0 +1,6 @@
+{
+  "name": "Formation Infinity Flow - 3D Coordinate Gallery",
+  "description": "Interactive WebGL digital gallery featuring Formation Infinity Flow, octagonal coordinate grids, multi-axis 3D spatial transforms, and holographic HUD systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
